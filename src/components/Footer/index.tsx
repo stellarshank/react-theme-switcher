@@ -22,7 +22,7 @@ const Footer = () => {
         <Container>
           <Row>
             <FooterContact>
-              <h3>ThemeSwitcher</h3>
+              <h3>okkkk</h3>
               <p>Alexandre Monteiro</p>
               <p>
                 <strong>Developer</strong>
